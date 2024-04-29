@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.logo{
+    width: 116px;
+    height: 26px;
+    margin-top: 39px;
+    margin-left: 117px;
+    gap: 10px;
+}
+
+.nav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    margin-top:39px ;
+    margin-left: 117px;
+}
+
+.nav-items{
+   margin-right: 35px;
+   gap:34px;
+}
+
+button{
+    border-radius: 50px;
+    border: 1px;
+    border-color: #000000;
+    gap: 10px;
+    color: #000000;
+    margin-right: 40px;
+    padding:5px 26px 5px 26px;   
+}
+
+.herosection-left{
+    background-color: #D6E4FE;
+    color: #491D8B;
+    font-weight: 700;
+    width: 100%;
+    height: 900px;
+    line-height: 60.94px;
+    size: 52px;
+    position: fixed;
+}  
+
+.text{
+    margin-top: 237px;
+    margin-left: 181px;
+    width: 587px;
+    height: 122px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3{
+    font-family: roboto;
+    color: #000000;
+    size: 22px;
+    line-height: 30px;
+    margin-top: 5px;
+    font-weight: 400px;
+    margin-left:181px ;
+    height: 60px;
+    width:526px ;
+}
+
+.second{
+    background-color: #0A84FF;
+    padding: 5px 26px 5px 26px;
+    border-radius: 50px;
+    margin-left: 181px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+
+.pic2{
+    width: 100%;
+    height: 50px;
+}
+
+
+
+
